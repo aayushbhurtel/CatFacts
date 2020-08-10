@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CatFacts</string>
+    <string name="cat_images">cat images</string>
+    <string name="next">NEXT</string>
+    <string name="cat_facts">CAT FACTS</string>
+</resources>
